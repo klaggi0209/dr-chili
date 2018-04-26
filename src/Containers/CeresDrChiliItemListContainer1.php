@@ -4,7 +4,7 @@ namespace CeresDrChili\Containers;
 
 use Plenty\Plugin\Templates\Twig;
 
-class CeresVanillaItemListContainer1
+class CeresDrChiliItemListContainer1
 {
     public function call(Twig $twig, $arg):string
     {
