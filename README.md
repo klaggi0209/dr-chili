@@ -1,6 +1,6 @@
 
 
-![plentymarkets Logo](http://www.plentymarkets.eu/layout/pm/images/logo/plentymarkets-logo.jpg)
+![plentymarkets Logo](http://ks-commerce.de/assets/images/logo-ks-1096x199.png)
 
 # CeresVanilla
 
