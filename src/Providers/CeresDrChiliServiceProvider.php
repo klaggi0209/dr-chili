@@ -14,10 +14,10 @@ use Plenty\Plugin\ConfigRepository;
 
 
 /**
- * Class CeresVanillaServiceProvider
- * @package CeresVanilla\Providers
+ * Class CeresDrChiliServiceProvider
+ * @package CeresDrChili\Providers
  */
-class CeresVanillaServiceProvider extends ServiceProvider
+class CeresDrChiliServiceProvider extends ServiceProvider
 {
     const PRIORITY = 0;
 
