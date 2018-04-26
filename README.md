@@ -2,7 +2,7 @@
 
 ![plentymarkets Logo](http://ks-commerce.de/assets/images/logo-ks-1096x199.png)
 
-# CeresVanilla
+# CeresDrChili
 
 A Vanilla theme for Ceres.
 
